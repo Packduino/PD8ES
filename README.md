@@ -5,6 +5,7 @@ Controlador para automação residencial e industrial com Wifi integrado
 Este projeto foi pensado para pessoas interessadas em montar sua própria automação residencial ou industrial.
 <p>
 
+  <img src="https://github.com/Packduino/PD8ES/blob/master/PD8ESa.jpg" alt="PD8ES" width="600" height="600">
 <h2> Diferencial </h2>
 <br> - Controle Web utilizando Wifi* local ou do controlador;
 <br> - 8 portas de saídas de contato seco (relés);
