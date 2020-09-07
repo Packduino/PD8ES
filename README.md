@@ -5,10 +5,11 @@ Controlador para automação residencial e industrial com Wifi integrado
 Este projeto foi pensado para pessoas interessadas em montar sua própria automação residencial ou industrial.
 <p>
 
+  <img src="https://github.com/Packduino/PD8ES/blob/master/PD8ESa.jpg" alt="PD8ES" width="600" height="600">
 <h2> Diferencial </h2>
 <br> - Controle Web utilizando Wifi* local ou do controlador;
 <br> - 8 portas de saídas de contato seco (relés);
-<br< - Saídas com estado permanente (liga / desliga) ou pulso (1 a 10 segundos)*
+<br> - Saídas com estado permanente (liga / desliga) ou pulso (1 a 10 segundos)*
 <br> - 8 entradas para acionamento local das 8 saídas (por botoeira ou interruptor)*;
 <br> - Entradas protegidas por optoacopladores e filtro de ruído capacitivo;
 <br> - Conexões de entrada por borne (parafusável) ou conector RJ45;
@@ -20,4 +21,4 @@ Este projeto foi pensado para pessoas interessadas em montar sua própria automa
 
 <br><i>* Configurável pelo controle web </i>
 
-<p><b><a href="https://www.mercadolivre.com.br/publicaciones/MLB1622851804/modificar/305179392-update-fdbe3a0d1973/detail"> Adquira já o seu neste link </a></b>
+<p><b><a href="https://produto.mercadolivre.com.br/MLB-1622851804-placa-automaco-residencial-maker-diy-88-canais-wifi-_JM"> Adquira já o seu neste link </a></b>
