@@ -20,4 +20,4 @@ Este projeto foi pensado para pessoas interessadas em montar sua própria automa
 
 <br><i>* Configurável pelo controle web </i>
 
-<p><b><a href="https://www.mercadolivre.com.br/publicaciones/MLB1622851804/modificar/305179392-update-fdbe3a0d1973/detail"> Adquira já o seu neste link </a></b>
+<p><b><a href="https://produto.mercadolivre.com.br/MLB-1622851804-placa-automaco-residencial-maker-diy-88-canais-wifi-_JM"> Adquira já o seu neste link </a></b>
