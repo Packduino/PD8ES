@@ -17,6 +17,7 @@ Este projeto foi pensado para pessoas interessadas em montar sua própria automa
 <br> - Tensão de entrada de 5 a 24 volts;
 <br> - Reset de configurações pelo controle Web ou botão na placa;
 <br> - Controle web disponível em 4 cores (azul, rosa, preto ou branco)*;
+ <img src="https://github.com/Packduino/PD8ES/blob/master/software.jpg" alt="PD8ES" width="600" height="600">
 <p>
 
 <br><i>* Configurável pelo controle web </i>
