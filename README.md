@@ -20,7 +20,8 @@ Este projeto foi pensado para pessoas interessadas em montar sua própria automa
  <img src="https://github.com/Packduino/PD8ES/blob/master/software.jpg" alt="PD8ES" width="600" height="600">
 <p>
 
-<br><i>* Configurável pelo controle web </i>
-<a href="https://www.youtube.com/watch?v=MdxBOuHsAQY"> Youtube </a></b>
+<br><i>* Configurável pelo controle web </i><br>
 Vídeo de apresentação: <br>
+<a href="https://www.youtube.com/watch?v=MdxBOuHsAQY"> Youtube </a></b>
+
 <p><b><a href="https://produto.mercadolivre.com.br/MLB-1622851804-placa-automaco-residencial-maker-diy-88-canais-wifi-_JM"> Adquira já o seu neste link </a></b>
